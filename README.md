@@ -21,5 +21,6 @@ Execute a macro clicando no botão CNAB para gerar o arquivo de remessa.
 📝 Observações
 O repositório contém dados fictícios para demonstração. Certifique-se de preencher os dados reais antes de usar a planilha em ambiente de produção.
 Esta solução é muito procurada na internet, mas raramente compartilhada gratuitamente, sendo frequentemente comercializada por canais especializados. Este projeto foi criado do zero com a intenção de democratizar essa ferramenta útil.
+Infelizmente deixei esse projeto incompleto no quesito de User Expirience pois iniciei um projeto de pagamentos via API para o Banco Inter. Que subistituiu esse na empresa que trabalhei
 💡 Contribuições
 Sugestões e melhorias são sempre bem-vindas!
